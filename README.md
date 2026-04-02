@@ -8,7 +8,7 @@ ARLIMVC is a deep incomplete multi-view clustering framework built on a variatio
 
 > **Adaptive Representation Learning Framework for Incomplete Multi-View Clustering**
 
-<img src="./框架图.png" width="900" />
+<img src="./framework.png" width="900" />
 
 ## Highlights
 
